@@ -1,0 +1,494 @@
+[
+    {
+        "id": "_meta",
+        "name": "All Hat And No Cattle",
+        "logo": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/cowboy_hat.png",
+        "author": ""
+    },
+    {
+        "id": "sweep",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/sweep.png",
+        "edition": "custom",
+        "firstNight": 14,
+        "firstNightReminder": "Ability (first night).",
+        "otherNight": 0,
+        "otherNightReminder": "",
+        "reminders": [],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Sweep",
+        "team": "townsfolk",
+        "ability": "You learn the length of the longest row of neighbouring townsfolk."
+    },
+    {
+        "id": "understudy",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/understudy.png",
+        "edition": "custom",
+        "firstNight": 17,
+        "firstNightReminder": "Ability (each night).",
+        "otherNight": 21,
+        "otherNightReminder": "Ability (each night*).",
+        "reminders": [
+            "Drunk"
+        ],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Understudy",
+        "team": "townsfolk",
+        "ability": "Each night, choose a good character. If you choose a demon bluff you become drunk. You learn if this character is in play."
+    },
+    {
+        "id": "vizier",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/vizier.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 22,
+        "otherNightReminder": "Ability (each night*).",
+        "reminders": [],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Vizier",
+        "team": "townsfolk",
+        "ability": "Each night*, choose a dead player. You learn the first word of their ability."
+    },
+    {
+        "id": "husk",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/husk.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 27,
+        "otherNightReminder": "Ability (each night*).",
+        "reminders": [],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Husk",
+        "team": "townsfolk",
+        "ability": "Each night*, you learn how many players were chosen by character abilities tonight (counted with multiplicity)."
+    },
+    {
+        "id": "stargazer",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/stargazer.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 0,
+        "otherNightReminder": "",
+        "reminders": [],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Stargazer",
+        "team": "townsfolk",
+        "ability": "Each day*, visit the storyteller and answer a yes/no question. In return you receive a piece of information, which is true if you answered correctly."
+    },
+    {
+        "id": "gatekeeper",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/gatekeeper.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 24,
+        "otherNightReminder": "If one/both of their picks died since last night, tell them this.",
+        "reminders": [
+            "Chosen"
+        ],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Gatekeeper",
+        "team": "townsfolk",
+        "ability": "On your first day, visit the storyteller and choose two characters. When either dies, you wake at night to learn that one (or both) died."
+    },
+    {
+        "id": "sorting_hat",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/sorting_hat.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 25,
+        "otherNightReminder": "Return character type count (night 2).",
+        "reminders": [
+            "Chosen"
+        ],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Sorting Hat",
+        "team": "townsfolk",
+        "ability": "On your first day, publicly choose 4 players (not yourself). At night you learn how many different character types they were."
+    },
+    {
+        "id": "potato",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/potato.png",
+        "edition": "custom",
+        "firstNight": 16,
+        "firstNightReminder": "Ability (once per game)",
+        "otherNight": 19,
+        "otherNightReminder": "Ability (once per game).",
+        "reminders": [
+            "No ability"
+        ],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Potato",
+        "team": "townsfolk",
+        "ability": "Once per game, at night, choose a player. If you choose a player of the same alignment or a demon, nothing happens. Otherwise, swap characters."
+    },
+    {
+        "id": "messenger",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/messenger.png",
+        "edition": "custom",
+        "firstNight": 15,
+        "firstNightReminder": "Ability (once per game)",
+        "otherNight": 20,
+        "otherNightReminder": "Ability (once per game).",
+        "reminders": [
+            "No ability"
+        ],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Messenger",
+        "team": "townsfolk",
+        "ability": "Once per game, at night, choose an alive player. They are woken to choose a character. If in play, that character wakes to learn that the Messenger is in play."
+    },
+    {
+        "id": "messiah",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/messiah.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 0,
+        "otherNightReminder": "",
+        "reminders": [
+            "No ability"
+        ],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Messiah",
+        "team": "townsfolk",
+        "ability": "Once per game, when you are dead, if you are executed you come back to life."
+    },
+    {
+        "id": "satirist",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/satirist.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 0,
+        "otherNightReminder": "",
+        "reminders": [
+            "No ability"
+        ],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Satirist",
+        "team": "townsfolk",
+        "ability": "The first time you are chosen at night by an evil character (not travelers), you learn which. Their ability is redirected (without warning) at a new target of your choice."
+    },
+    {
+        "id": "hermit",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/hermit.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 26,
+        "otherNightReminder": "If they are the only good player alive, tell them the demon bluffs.",
+        "reminders": [],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Hermit",
+        "team": "townsfolk",
+        "ability": "If only one good player is left alive, you learn the demon bluffs before you wake."
+    },
+    {
+        "id": "guard",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/guard.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 10,
+        "otherNightReminder": "Mark protected players.",
+        "reminders": [
+            "Protected",
+            "Drunk"
+        ],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Guard",
+        "team": "townsfolk",
+        "ability": "Any player (not yourself) who votes when you are nominated cannot die tonight, and one is drunk tonight."
+    },
+    {
+        "id": "apatheist",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/apatheist.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 0,
+        "otherNightReminder": "",
+        "reminders": [
+            "Team"
+        ],
+        "remindersGlobal": [],
+        "setup": 1,
+        "name": "Apatheist",
+        "team": "townsfolk",
+        "ability": "When a good player is targeted by an evil players ability, they learn each other, the good player aligns with the evil player and the evil players ability malfunctions; even if you are dead. [There are two evil teams.]"
+    },
+    {
+        "id": "brewer",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/brewer.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 0,
+        "otherNightReminder": "",
+        "reminders": [
+            "Is the Brewer",
+            "Drunk",
+            "Protected"
+        ],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Brewer",
+        "team": "outsider",
+        "ability": "You think you are a different character. One of your neighbours cannot die, the other is drunk."
+    },
+    {
+        "id": "tempest",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/tempest.png",
+        "edition": "custom",
+        "firstNight": 10,
+        "firstNightReminder": "Tell them their alignment.",
+        "otherNight": 0,
+        "otherNightReminder": "",
+        "reminders": [],
+        "remindersGlobal": [],
+        "setup": 1,
+        "name": "Tempest",
+        "team": "outsider",
+        "ability": "You might start evil. If you die at night, choose a player (not yourself). You switch to their alignment and then die."
+    },
+    {
+        "id": "man_friday",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/man_friday.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 11,
+        "otherNightReminder": "Mark if something bad is could happen tonight.",
+        "reminders": [
+            "Something bad"
+        ],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Man Friday",
+        "team": "outsider",
+        "ability": "If a player is nominated and executed and you did not vote on their nomination, something bad might happen to your team. You survive execution."
+    },
+    {
+        "id": "lemming",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/lemming.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 0,
+        "otherNightReminder": "",
+        "reminders": [
+            "Has ability"
+        ],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Lemming",
+        "team": "outsider",
+        "ability": "If a Lemming dies, so do all other Lemmings. When Lemmings die, a dead minion regains their ability."
+    },
+    {
+        "id": "hypnotist",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/hypnotist.png",
+        "edition": "custom",
+        "firstNight": 11,
+        "firstNightReminder": "Ability (each night)",
+        "otherNight": 12,
+        "otherNightReminder": "Ability (each night)",
+        "reminders": [],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Hypnotist",
+        "team": "minion",
+        "ability": "Each night, choose a player (different to last night). You learn their character and control any choices they make tonight. (They learn these choices.)"
+    },
+    {
+        "id": "vulture",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/vulture.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 13,
+        "otherNightReminder": "Ability (each night*).",
+        "reminders": [
+            "Remove vote"
+        ],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Vulture",
+        "team": "minion",
+        "ability": "Each night, if there were more dead than living players at dusk, choose a dead player, their ghost vote is removed."
+    },
+    {
+        "id": "bazooka",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/bazooka.png",
+        "edition": "custom",
+        "firstNight": 12,
+        "firstNightReminder": "Choose clockwise/anticlockwise.",
+        "otherNight": 14,
+        "otherNightReminder": "Ability (each night*).",
+        "reminders": [
+            "Clockwise",
+            "Anticlockwise",
+            "Shot once",
+            "No ability",
+            "Dead"
+        ],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Bazooka",
+        "team": "minion",
+        "ability": "On your first night, choose clockwise or anticlockwise. Twice per game, at night*, along neighbouring alive players in that direction, choose if the furthest from you dies."
+    },
+    {
+        "id": "siren",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/siren.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 0,
+        "otherNightReminder": "",
+        "reminders": [
+            "Drunk"
+        ],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Siren",
+        "team": "minion",
+        "ability": "Each time you are nominated by an opposing player, they become drunk, even if you are dead."
+    },
+    {
+        "id": "runculus",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/runculus.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 15,
+        "otherNightReminder": "Ability (each night*).",
+        "reminders": [
+            "Dead",
+            "Learned",
+            "Non-listed minion"
+        ],
+        "remindersGlobal": [],
+        "setup": 1,
+        "name": "Runculus",
+        "team": "demon",
+        "ability": "Each night*, choose a player to die. One of your minions has a non-listed minion ability. A good player might learn which ability, if so you learn who."
+    },
+    {
+        "id": "cotillion",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/cotillion.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 16,
+        "otherNightReminder": "Ability (each night*).",
+        "reminders": [
+            "Dead"
+        ],
+        "remindersGlobal": [],
+        "setup": 1,
+        "name": "Cotillion",
+        "team": "demon",
+        "ability": "Each night*, either: choose a player to become a Lemming, or choose a player to die. [+0 or +1 outsiders]"
+    },
+    {
+        "id": "lumpus",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/lumpus.png",
+        "edition": "custom",
+        "firstNight": 13,
+        "firstNightReminder": "Show the Grimoire.",
+        "otherNight": 17,
+        "otherNightReminder": "Ability (each night*).",
+        "reminders": [
+            "Dead"
+        ],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Lumpus",
+        "team": "demon",
+        "ability": "You see the Grimoire on your first night. Each night*, choose a neighbour of an already dead player to die, even if they might have survived for some reason."
+    },
+    {
+        "id": "hox",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/hox.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 18,
+        "otherNightReminder": "Ability (each night*).",
+        "reminders": [
+            "Dead"
+        ],
+        "remindersGlobal": [],
+        "setup": 1,
+        "name": "Hox",
+        "team": "demon",
+        "ability": "Each night*, choose a player to die. If you choose yourself then you (die and) become good and a good player turns into an evil Hox. You don't learn bluffs or minions. Minions know (only) you and learn bluffs. [+1 minion]"
+    },
+    {
+        "id": "pollster",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/pollster.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 0,
+        "otherNightReminder": "",
+        "reminders": [],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Pollster",
+        "team": "traveler",
+        "ability": "When you are nominated, or your exile is called for, visit the storyteller privately and choose a number. If exactly that many players vote, you win."
+    },
+    {
+        "id": "jailer",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/jailer.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 23,
+        "otherNightReminder": "Ability (each night*).",
+        "reminders": [
+            "On the block"
+        ],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Jailer",
+        "team": "traveler",
+        "ability": "Each night*, choose a player, they are placed on the block at dawn."
+    },
+    {
+        "id": "triffid",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/triffid.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 0,
+        "otherNightReminder": "",
+        "reminders": [
+            "On the block"
+        ],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Triffid",
+        "team": "traveler",
+        "ability": "On a tied nomination vote, both (or more) players are placed on the block. If so, at the end of the day, you choose if they are (all) executed."
+    }
+]
