@@ -2,12 +2,12 @@
     {
         "id": "_meta",
         "name": "All Hat And No Cattle",
-        "logo": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/cowboy_hat.png",
-        "author": ""
+        "logo": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/logo/cowboy_hat.png",
+        "author": "Nic"
     },
     {
         "id": "sweep",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/sweep.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/sweep.png",
         "edition": "custom",
         "firstNight": 14,
         "firstNightReminder": "Ability (first night).",
@@ -22,7 +22,7 @@
     },
     {
         "id": "understudy",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/understudy.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/understudy.png",
         "edition": "custom",
         "firstNight": 17,
         "firstNightReminder": "Ability (each night).",
@@ -39,7 +39,7 @@
     },
     {
         "id": "vizier",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/vizier.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/vizier.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
@@ -54,7 +54,7 @@
     },
     {
         "id": "husk",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/husk.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/husk.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
@@ -69,7 +69,7 @@
     },
     {
         "id": "stargazer",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/stargazer.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/stargazer.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
@@ -84,7 +84,7 @@
     },
     {
         "id": "gatekeeper",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/gatekeeper.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/gatekeeper.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
@@ -101,7 +101,7 @@
     },
     {
         "id": "sorting_hat",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/sorting_hat.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/sorting_hat.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
@@ -118,7 +118,7 @@
     },
     {
         "id": "potato",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/potato.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/potato.png",
         "edition": "custom",
         "firstNight": 16,
         "firstNightReminder": "Ability (once per game)",
@@ -135,7 +135,7 @@
     },
     {
         "id": "messenger",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/messenger.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/messenger.png",
         "edition": "custom",
         "firstNight": 15,
         "firstNightReminder": "Ability (once per game)",
@@ -152,7 +152,7 @@
     },
     {
         "id": "messiah",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/messiah.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/messiah.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
@@ -169,7 +169,7 @@
     },
     {
         "id": "satirist",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/satirist.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/satirist.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
@@ -186,7 +186,7 @@
     },
     {
         "id": "hermit",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/hermit.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/hermit.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
@@ -201,7 +201,7 @@
     },
     {
         "id": "guard",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/guard.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/guard.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
@@ -219,7 +219,7 @@
     },
     {
         "id": "apatheist",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/apatheist.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/apatheist.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
@@ -236,7 +236,7 @@
     },
     {
         "id": "brewer",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/brewer.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/brewer.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
@@ -255,7 +255,7 @@
     },
     {
         "id": "tempest",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/tempest.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/tempest.png",
         "edition": "custom",
         "firstNight": 10,
         "firstNightReminder": "Tell them their alignment.",
@@ -270,7 +270,7 @@
     },
     {
         "id": "man_friday",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/man_friday.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/man_friday.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
@@ -287,7 +287,7 @@
     },
     {
         "id": "lemming",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/lemming.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/lemming.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
@@ -304,7 +304,7 @@
     },
     {
         "id": "hypnotist",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/hypnotist.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/hypnotist.png",
         "edition": "custom",
         "firstNight": 11,
         "firstNightReminder": "Ability (each night)",
@@ -319,7 +319,7 @@
     },
     {
         "id": "vulture",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/vulture.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/vulture.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
@@ -336,7 +336,7 @@
     },
     {
         "id": "bazooka",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/bazooka.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/bazooka.png",
         "edition": "custom",
         "firstNight": 12,
         "firstNightReminder": "Choose clockwise/anticlockwise.",
@@ -357,7 +357,7 @@
     },
     {
         "id": "siren",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/siren.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/siren.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
@@ -374,7 +374,7 @@
     },
     {
         "id": "runculus",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/runculus.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/runculus.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
@@ -393,7 +393,7 @@
     },
     {
         "id": "cotillion",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/cotillion.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/cotillion.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
@@ -410,7 +410,7 @@
     },
     {
         "id": "lumpus",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/lumpus.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/lumpus.png",
         "edition": "custom",
         "firstNight": 13,
         "firstNightReminder": "Show the Grimoire.",
@@ -427,7 +427,7 @@
     },
     {
         "id": "hox",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/hox.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/hox.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
@@ -444,7 +444,7 @@
     },
     {
         "id": "pollster",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/pollster.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/pollster.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
@@ -459,7 +459,7 @@
     },
     {
         "id": "jailer",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/jailer.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/jailer.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
@@ -476,7 +476,7 @@
     },
     {
         "id": "triffid",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/triffid.png",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/triffid.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
