@@ -18,7 +18,7 @@
         "setup": 0,
         "name": "Sweep",
         "team": "townsfolk",
-        "ability": "You learn the length of the longest row of neighbouring townsfolk."
+        "ability": "You start knowing the length of the longest row of neighbouring townsfolk."
     },
     {
         "id": "understudy",
@@ -60,7 +60,9 @@
         "firstNightReminder": "",
         "otherNight": 27,
         "otherNightReminder": "Ability (each night*).",
-        "reminders": [],
+        "reminders": [
+            "Was chosen"
+        ],
         "remindersGlobal": [],
         "setup": 0,
         "name": "Husk",
@@ -148,7 +150,7 @@
         "setup": 0,
         "name": "Messenger",
         "team": "townsfolk",
-        "ability": "Once per game, at night, choose an alive player. They are woken to choose a character. If in play, that character wakes to learn that the Messenger is in play."
+        "ability": "Once per game, at night, choose an alive player (not yourself). They are woken and asked to choose a character. If in play, that character wakes to learn that the Messenger is in play."
     },
     {
         "id": "messiah",
@@ -232,7 +234,7 @@
         "setup": 1,
         "name": "Apatheist",
         "team": "townsfolk",
-        "ability": "When a good player is targeted by an evil players ability, they learn each other, the good player aligns with the evil player and the evil players ability malfunctions; even if you are dead. [There are two evil teams.]"
+        "ability": "When a good player is targeted by an evil players ability, they learn each other, the good player aligns with the evil player and the evil players ability malfunctions; even if you are dead or drunk. [There are two evil teams.]"
     },
     {
         "id": "brewer",
@@ -389,7 +391,7 @@
         "setup": 1,
         "name": "Runculus",
         "team": "demon",
-        "ability": "Each night*, choose a player to die. One of your minions has a non-listed minion ability. A good player might learn which ability, if so you learn who."
+        "ability": "Each night*, choose a player to die. One of your minions has a non-listed (minion) role. A good player might learn which non-listed role is in play, if so the minion learns who."
     },
     {
         "id": "cotillion",
@@ -423,7 +425,7 @@
         "setup": 0,
         "name": "Lumpus",
         "team": "demon",
-        "ability": "You see the Grimoire on your first night. Each night*, choose a neighbour of an already dead player to die, even if they might have survived for some reason."
+        "ability": "You see the Grimoire on your first night. Each night*, choose a neighbour of an already dead player to die, even if they might have survived for some reason. (Or anyone if all players live.)"
     },
     {
         "id": "hox",
