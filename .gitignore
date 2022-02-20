@@ -1,8 +1,8 @@
 *.ipynb
-*/masks/*
-*/bases/*
-*/old/*
-*/grimoires/*
+masks/
+bases/
+old/
+grimoires/
 *.csv
 *.ods
 *.xlsx
