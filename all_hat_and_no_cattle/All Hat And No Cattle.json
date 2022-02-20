@@ -150,7 +150,7 @@
         "setup": 0,
         "name": "Messenger",
         "team": "townsfolk",
-        "ability": "Once per game, at night, choose an alive player (not yourself). They are woken and asked to choose a character. If in play, that character wakes to learn that the Messenger is in play."
+        "ability": "Once per game, at night, choose an alive player (not yourself). They are woken and asked to choose a character. That character wakes to learn that the Messenger is in play."
     },
     {
         "id": "messiah",
@@ -234,7 +234,7 @@
         "setup": 1,
         "name": "Apatheist",
         "team": "townsfolk",
-        "ability": "When a good player is targeted by an evil players ability, instead the good player aligns with and learns the evil player; even if you are dead or drunk. [There are two evil teams.]"
+        "ability": "When a good player is targeted by an evil players ability, the ability malfunctions. Instead, the good player aligns with and learns the evil player; even if you are drunk or dead. [There are two evil teams.]"
     },
     {
         "id": "brewer",
@@ -442,7 +442,7 @@
         "setup": 1,
         "name": "Hox",
         "team": "demon",
-        "ability": "Each night*, choose a player to die. If you choose yourself then you (die and) become good and a good player turns into an evil Hox. You don't learn bluffs or minions. Minions know (only) you and learn bluffs. [+1 minion]"
+        "ability": "Each night*, choose a player to die. If you choose yourself then (after your death) a good player turns into an evil Hox and you become good. You don't learn bluffs or minions. Minions know (only) you and learn bluffs. [+1 minion]"
     },
     {
         "id": "pollster",
