@@ -227,10 +227,10 @@
         "firstNightReminder": "",
         "otherNight": 0,
         "otherNightReminder": "",
-        "reminders": [
+        "reminders": [],
+        "remindersGlobal": [
             "Team"
         ],
-        "remindersGlobal": [],
         "setup": 1,
         "name": "Apatheist",
         "team": "townsfolk",
@@ -244,12 +244,12 @@
         "firstNightReminder": "",
         "otherNight": 0,
         "otherNightReminder": "",
-        "reminders": [
+        "reminders": [],
+        "remindersGlobal": [
             "Is the Brewer",
             "Drunk",
             "Protected"
         ],
-        "remindersGlobal": [],
         "setup": 0,
         "name": "Brewer",
         "team": "outsider",
