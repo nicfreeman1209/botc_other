@@ -3,6 +3,4 @@ masks/
 bases/
 old/
 grimoires/
-*.csv
-*.ods
-*.xlsx
+~*.xlsx
