@@ -234,7 +234,7 @@
         "setup": 1,
         "name": "Apatheist",
         "team": "townsfolk",
-        "ability": "When a good player is targeted by an evil players ability, they learn each other, the good player aligns with the evil player and the evil players ability malfunctions; even if you are dead or drunk. [There are two evil teams.]"
+        "ability": "When a good player is targeted by an evil players ability, instead the good player aligns with and learns the evil player; even if you are dead or drunk. [There are two evil teams.]"
     },
     {
         "id": "brewer",
