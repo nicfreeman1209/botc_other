@@ -3,7 +3,8 @@
         "id": "_meta",
         "name": "All Hat And No Cattle",
         "logo": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/logo/cowboy_hat.png",
-        "author": "Nic"
+        "author": "Nic",
+        "date": "2022-02-21"
     },
     {
         "id": "sweep",
@@ -184,7 +185,7 @@
         "setup": 0,
         "name": "Satirist",
         "team": "townsfolk",
-        "ability": "The first time you are chosen at night by an evil character (not travelers), you learn which. Their ability is redirected (without warning) at a new target of your choice."
+        "ability": "The first time you are chosen at night by a minions ability, it malfunctions. You learn which ability and you gain that ability tonight."
     },
     {
         "id": "hermit",
@@ -208,7 +209,7 @@
         "firstNight": 0,
         "firstNightReminder": "",
         "otherNight": 10,
-        "otherNightReminder": "Mark protected players.",
+        "otherNightReminder": "Mark protected & drunk players.",
         "reminders": [
             "Protected",
             "Drunk"
@@ -234,7 +235,7 @@
         "setup": 1,
         "name": "Apatheist",
         "team": "townsfolk",
-        "ability": "When a good player is targeted by an evil players ability, the ability malfunctions. Instead, the good player aligns with and learns the evil player; even if you are drunk or dead. [There are two evil teams.]"
+        "ability": "When a good player is chosen at night by an evil players ability, it malfunctions. Instead, the good player aligns with and learns the evil player; even if you are drunk or dead. [There are two evil teams.]"
     },
     {
         "id": "brewer",
