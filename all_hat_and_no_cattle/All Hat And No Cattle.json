@@ -4,7 +4,7 @@
         "name": "All Hat And No Cattle",
         "logo": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/logo/cowboy_hat.png",
         "author": "Nic",
-        "date": "2022-02-21"
+        "date": "2022-03-20"
     },
     {
         "id": "sweep",
@@ -162,13 +162,14 @@
         "otherNight": 0,
         "otherNightReminder": "",
         "reminders": [
-            "No ability"
+            "No ability",
+            "Cannot die"
         ],
         "remindersGlobal": [],
         "setup": 0,
         "name": "Messiah",
         "team": "townsfolk",
-        "ability": "Once per game, when you are dead, if you are executed you come back to life."
+        "ability": "Once per game, when you are dead, if you are executed you come back to life and cannot die tonight."
     },
     {
         "id": "satirist",
@@ -348,7 +349,6 @@
         "reminders": [
             "Clockwise",
             "Anticlockwise",
-            "Shot once",
             "No ability",
             "Dead"
         ],
@@ -356,7 +356,7 @@
         "setup": 0,
         "name": "Bazooka",
         "team": "minion",
-        "ability": "On your first night, choose clockwise or anticlockwise. Twice per game, at night*, along neighbouring alive players in that direction, choose if the furthest from you dies."
+        "ability": "On your first night, choose clockwise or anticlockwise. Once per game, at night*, along neighbouring alive players in that direction, choose if the furthest two from you die. On the night you act, the demon is drunk."
     },
     {
         "id": "siren",
@@ -426,7 +426,7 @@
         "setup": 0,
         "name": "Lumpus",
         "team": "demon",
-        "ability": "You see the Grimoire on your first night. Each night*, choose a neighbour of an already dead player to die, even if they might have survived for some reason. (Or anyone if all players live.)"
+        "ability": "You see the Grimoire on your first night. Each night*, choose a neighbour of an already dead player to die, even if they might have survived for some reason. (Choose anyone if all players live.)"
     },
     {
         "id": "hox",
@@ -443,7 +443,7 @@
         "setup": 1,
         "name": "Hox",
         "team": "demon",
-        "ability": "Each night*, choose a player to die. If you choose yourself then (after your death) a good player turns into an evil Hox and you become good. You don't learn bluffs or minions. Minions know (only) you and learn bluffs. [+1 minion]"
+        "ability": "Each night*, choose a player to die. If you choose yourself then (after your death) a good player turns into an evil Hox and you become good. You don't learn bluffs or minions. Minions know (only) you and learn bluffs. [+1 outsider]"
     },
     {
         "id": "pollster",
