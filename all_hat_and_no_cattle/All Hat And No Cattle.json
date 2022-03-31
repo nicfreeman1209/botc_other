@@ -458,7 +458,7 @@
         "setup": 0,
         "name": "Pollster",
         "team": "traveler",
-        "ability": "When your exile is called for, visit the storyteller privately and choose a number. If exactly that many players vote, you win. You survive execution."
+        "ability": "When your exile is called for, visit the storyteller privately and choose a number. If exactly that many players vote, you win."
     },
     {
         "id": "jailer",
