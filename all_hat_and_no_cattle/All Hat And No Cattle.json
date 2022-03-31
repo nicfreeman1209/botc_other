@@ -4,14 +4,14 @@
         "name": "All Hat And No Cattle",
         "logo": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/logo/cowboy_hat.png",
         "author": "Nic",
-        "date": "2022-03-20"
+        "date": "2022-03-31"
     },
     {
         "id": "sweep",
         "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/sweep.png",
         "edition": "custom",
         "firstNight": 14,
-        "firstNightReminder": "Ability (first night).",
+        "firstNightReminder": "Ability - first night.",
         "otherNight": 0,
         "otherNightReminder": "",
         "reminders": [],
@@ -26,9 +26,9 @@
         "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/understudy.png",
         "edition": "custom",
         "firstNight": 17,
-        "firstNightReminder": "Ability (each night).",
+        "firstNightReminder": "Ability - each night.",
         "otherNight": 21,
-        "otherNightReminder": "Ability (each night*).",
+        "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Drunk"
         ],
@@ -45,7 +45,7 @@
         "firstNight": 0,
         "firstNightReminder": "",
         "otherNight": 22,
-        "otherNightReminder": "Ability (each night*).",
+        "otherNightReminder": "Ability - each night*.",
         "reminders": [],
         "remindersGlobal": [],
         "setup": 0,
@@ -60,7 +60,7 @@
         "firstNight": 0,
         "firstNightReminder": "",
         "otherNight": 27,
-        "otherNightReminder": "Ability (each night*).",
+        "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Was chosen"
         ],
@@ -124,9 +124,9 @@
         "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/potato.png",
         "edition": "custom",
         "firstNight": 16,
-        "firstNightReminder": "Ability (once per game).",
+        "firstNightReminder": "Ability - once per game.",
         "otherNight": 19,
-        "otherNightReminder": "Ability (once per game).",
+        "otherNightReminder": "Ability - once per game.",
         "reminders": [
             "No ability"
         ],
@@ -141,9 +141,9 @@
         "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/messenger.png",
         "edition": "custom",
         "firstNight": 15,
-        "firstNightReminder": "Ability (once per game).",
+        "firstNightReminder": "Ability - once per game.",
         "otherNight": 20,
-        "otherNightReminder": "Ability (once per game).",
+        "otherNightReminder": "Ability - once per game.",
         "reminders": [
             "No ability"
         ],
@@ -186,7 +186,7 @@
         "setup": 0,
         "name": "Satirist",
         "team": "townsfolk",
-        "ability": "The first time you are chosen at night by a minions ability, it malfunctions. You learn which ability and you gain that ability tonight."
+        "ability": "The first time you are chosen at night by an opposing player, their ability malfunctions. The effect is redirected (without warning) at a new target of your choice."
     },
     {
         "id": "hermit",
@@ -212,7 +212,7 @@
         "otherNight": 10,
         "otherNightReminder": "Mark protected & drunk players.",
         "reminders": [
-            "Protected",
+            "Cannot die",
             "Drunk"
         ],
         "remindersGlobal": [],
@@ -250,7 +250,7 @@
         "remindersGlobal": [
             "Is the Brewer",
             "Drunk",
-            "Protected"
+            "Cannot die"
         ],
         "setup": 0,
         "name": "Brewer",
@@ -304,16 +304,16 @@
         "setup": 0,
         "name": "Lemming",
         "team": "outsider",
-        "ability": "If a Lemming dies, so do all other Lemmings. When Lemmings die, a dead minion regains their ability."
+        "ability": "If a Lemming dies, so do all other Lemmings. When Lemmings die, a dead minion might regain their ability for one day and night."
     },
     {
         "id": "hypnotist",
         "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/hypnotist.png",
         "edition": "custom",
         "firstNight": 11,
-        "firstNightReminder": "Ability (each night).",
+        "firstNightReminder": "Ability - each night.",
         "otherNight": 12,
-        "otherNightReminder": "Ability (each night).",
+        "otherNightReminder": "Ability - each night.",
         "reminders": [],
         "remindersGlobal": [],
         "setup": 0,
@@ -328,7 +328,7 @@
         "firstNight": 0,
         "firstNightReminder": "",
         "otherNight": 13,
-        "otherNightReminder": "Ability (each night*).",
+        "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Remove vote"
         ],
@@ -345,7 +345,7 @@
         "firstNight": 12,
         "firstNightReminder": "Choose clockwise/anticlockwise.",
         "otherNight": 14,
-        "otherNightReminder": "Ability (each night*).",
+        "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Clockwise",
             "Anticlockwise",
@@ -356,7 +356,7 @@
         "setup": 0,
         "name": "Bazooka",
         "team": "minion",
-        "ability": "On your first night, choose clockwise or anticlockwise. Once per game, at night*, along neighbouring alive players in that direction, choose if the furthest two from you die. On the night you act, the demon is drunk."
+        "ability": "On your first night, choose clockwise or anticlockwise. Once per game, at night*, along neighbouring alive players in that direction, choose if the furthest two from you die. The demon is drunk that night."
     },
     {
         "id": "siren",
@@ -382,7 +382,7 @@
         "firstNight": 0,
         "firstNightReminder": "",
         "otherNight": 15,
-        "otherNightReminder": "Ability (each night*).",
+        "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Dead",
             "Learned",
@@ -401,7 +401,7 @@
         "firstNight": 0,
         "firstNightReminder": "",
         "otherNight": 16,
-        "otherNightReminder": "Ability (each night*).",
+        "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Dead"
         ],
@@ -409,16 +409,16 @@
         "setup": 1,
         "name": "Cotillion",
         "team": "demon",
-        "ability": "Each night*, either: choose a player to become a Lemming, or choose a player to die. [+0 or +1 outsiders]"
+        "ability": "Each night*, either: choose a player to become a Lemming, or choose a player to die."
     },
     {
         "id": "lumpus",
         "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/lumpus.png",
         "edition": "custom",
         "firstNight": 13,
-        "firstNightReminder": "Show the Grimoire.",
+        "firstNightReminder": "They see the Grimoire.",
         "otherNight": 17,
-        "otherNightReminder": "Ability (each night*).",
+        "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Dead"
         ],
@@ -435,7 +435,7 @@
         "firstNight": 0,
         "firstNightReminder": "",
         "otherNight": 18,
-        "otherNightReminder": "Ability (each night*).",
+        "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Dead"
         ],
@@ -443,7 +443,7 @@
         "setup": 1,
         "name": "Hox",
         "team": "demon",
-        "ability": "Each night*, choose a player to die. If you choose yourself then (after your death) a good player turns into an evil Hox and you become good. You don't learn bluffs or minions. Minions know (only) you and learn bluffs. [+1 outsider]"
+        "ability": "Each night*, choose a player to die. If you choose yourself then (after your death) a good player turns into an evil Hox and you become good. You don't learn bluffs or minions. Minions know (only) you and learn bluffs. [+1 Outsider/Minion]"
     },
     {
         "id": "pollster",
@@ -458,7 +458,7 @@
         "setup": 0,
         "name": "Pollster",
         "team": "traveler",
-        "ability": "When you are nominated, or your exile is called for, visit the storyteller privately and choose a number. If exactly that many players vote, you win."
+        "ability": "When your exile is called for, visit the storyteller privately and choose a number. If exactly that many players vote, you win. You survive execution."
     },
     {
         "id": "jailer",
@@ -467,7 +467,7 @@
         "firstNight": 0,
         "firstNightReminder": "",
         "otherNight": 23,
-        "otherNightReminder": "Ability (each night*).",
+        "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "On the block"
         ],
