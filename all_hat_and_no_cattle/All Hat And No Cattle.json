@@ -492,6 +492,6 @@
         "setup": 0,
         "name": "Triffid",
         "team": "traveler",
-        "ability": "On a tied nomination vote, both (or more) players are placed on the block. If so, at the end of the day, you choose if they are (all) executed."
+        "ability": "On a tied nomination vote, two (or more) players are placed on the block. If so, at the end of the day, you choose which one of them is executed."
     }
 ]
