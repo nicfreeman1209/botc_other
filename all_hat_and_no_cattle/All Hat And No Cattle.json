@@ -4,7 +4,7 @@
         "name": "All Hat And No Cattle",
         "logo": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/logo/cowboy_hat.png",
         "author": "Nic",
-        "date": "2022-03-31"
+        "date": "2022-04-01"
     },
     {
         "id": "sweep",
@@ -27,7 +27,7 @@
         "edition": "custom",
         "firstNight": 17,
         "firstNightReminder": "Ability - each night.",
-        "otherNight": 21,
+        "otherNight": 22,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Drunk"
@@ -44,7 +44,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 22,
+        "otherNight": 23,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [],
         "remindersGlobal": [],
@@ -59,7 +59,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 27,
+        "otherNight": 28,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Was chosen"
@@ -91,7 +91,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 24,
+        "otherNight": 25,
         "otherNightReminder": "If one/both of their picks died since last night, tell them this.",
         "reminders": [
             "Chosen"
@@ -108,7 +108,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 25,
+        "otherNight": 26,
         "otherNightReminder": "Return character type count (night 2).",
         "reminders": [
             "Chosen"
@@ -125,7 +125,7 @@
         "edition": "custom",
         "firstNight": 16,
         "firstNightReminder": "Ability - once per game.",
-        "otherNight": 19,
+        "otherNight": 20,
         "otherNightReminder": "Ability - once per game.",
         "reminders": [
             "No ability"
@@ -142,7 +142,7 @@
         "edition": "custom",
         "firstNight": 15,
         "firstNightReminder": "Ability - once per game.",
-        "otherNight": 20,
+        "otherNight": 21,
         "otherNightReminder": "Ability - once per game.",
         "reminders": [
             "No ability"
@@ -159,17 +159,14 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 0,
-        "otherNightReminder": "",
-        "reminders": [
-            "No ability",
-            "Cannot die"
-        ],
+        "otherNight": 11,
+        "otherNightReminder": "If executed whilst dead, wake for new character choice.",
+        "reminders": [],
         "remindersGlobal": [],
         "setup": 0,
         "name": "Messiah",
         "team": "townsfolk",
-        "ability": "Once per game, when you are dead, if you are executed you come back to life and cannot die tonight."
+        "ability": "If you are executed whilst dead, at night you come back to life as a good character of your choice."
     },
     {
         "id": "satirist",
@@ -186,7 +183,7 @@
         "setup": 0,
         "name": "Satirist",
         "team": "townsfolk",
-        "ability": "The first time you are chosen at night by an opposing player, their ability malfunctions. The effect is redirected (without warning) at a new target of your choice."
+        "ability": "The first time you are chosen at night by an opposing player, their ability malfunctions. The choice is redirected (without warning) at a new target of your choice."
     },
     {
         "id": "hermit",
@@ -194,7 +191,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 26,
+        "otherNight": 27,
         "otherNightReminder": "If they are the only good player alive, tell them the demon bluffs.",
         "reminders": [],
         "remindersGlobal": [],
@@ -209,7 +206,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 10,
+        "otherNight": 12,
         "otherNightReminder": "Mark protected & drunk players.",
         "reminders": [
             "Cannot die",
@@ -278,7 +275,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 11,
+        "otherNight": 10,
         "otherNightReminder": "Mark if something bad could happen tonight.",
         "reminders": [
             "Something bad"
@@ -287,7 +284,7 @@
         "setup": 0,
         "name": "Man Friday",
         "team": "outsider",
-        "ability": "If a player is nominated and executed and you did not vote on their nomination, something bad might happen to your team. You survive execution."
+        "ability": "If a player is nominated and executed and you did not vote on their nomination, something bad might happen to your team (you might learn what). You survive execution."
     },
     {
         "id": "lemming",
@@ -312,7 +309,7 @@
         "edition": "custom",
         "firstNight": 11,
         "firstNightReminder": "Ability - each night.",
-        "otherNight": 12,
+        "otherNight": 13,
         "otherNightReminder": "Ability - each night.",
         "reminders": [],
         "remindersGlobal": [],
@@ -327,7 +324,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 13,
+        "otherNight": 14,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Remove vote"
@@ -344,7 +341,7 @@
         "edition": "custom",
         "firstNight": 12,
         "firstNightReminder": "Choose clockwise/anticlockwise.",
-        "otherNight": 14,
+        "otherNight": 15,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Clockwise",
@@ -381,7 +378,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 15,
+        "otherNight": 16,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Dead",
@@ -392,7 +389,7 @@
         "setup": 1,
         "name": "Runculus",
         "team": "demon",
-        "ability": "Each night*, choose a player to die. One of your minions has a non-listed (minion) role. A good player might learn which non-listed role is in play, if so the minion learns who."
+        "ability": "Each night*, choose a player to die. One of your minions has a non-listed (minion) role. A good player might learn something about which role, if so the minion learns who."
     },
     {
         "id": "cotillion",
@@ -400,7 +397,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 16,
+        "otherNight": 17,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Dead"
@@ -417,7 +414,7 @@
         "edition": "custom",
         "firstNight": 13,
         "firstNightReminder": "They see the Grimoire.",
-        "otherNight": 17,
+        "otherNight": 18,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Dead"
@@ -434,7 +431,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 18,
+        "otherNight": 19,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Dead"
@@ -466,7 +463,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 23,
+        "otherNight": 24,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "On the block"
