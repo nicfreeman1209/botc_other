@@ -389,7 +389,7 @@
         "setup": 1,
         "name": "Runculus",
         "team": "demon",
-        "ability": "Each night*, choose a player to die. One of your minions has a non-listed (minion) role. A good player might learn something about which role, if so the minion learns who."
+        "ability": "Each night*, choose a player to die. One of your minions has a non-listed (minion) role. A good player might learn from which script."
     },
     {
         "id": "cotillion",
