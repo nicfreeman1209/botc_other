@@ -44,8 +44,8 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 23,
-        "otherNightReminder": "Ability - each night*.",
+        "otherNight": 0,
+        "otherNightReminder": "",
         "reminders": [],
         "remindersGlobal": [],
         "setup": 0,
@@ -59,7 +59,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 28,
+        "otherNight": 27,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Was chosen"
@@ -91,7 +91,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 25,
+        "otherNight": 24,
         "otherNightReminder": "If one/both of their picks died since last night, tell them this.",
         "reminders": [
             "Chosen"
@@ -108,7 +108,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 26,
+        "otherNight": 25,
         "otherNightReminder": "Return character type count (night 2).",
         "reminders": [
             "Chosen"
@@ -191,7 +191,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 27,
+        "otherNight": 26,
         "otherNightReminder": "If they are the only good player alive, tell them the demon bluffs.",
         "reminders": [],
         "remindersGlobal": [],
@@ -217,23 +217,6 @@
         "name": "Guard",
         "team": "townsfolk",
         "ability": "Any player (not yourself) who votes when you are nominated cannot die tonight, and one is drunk tonight."
-    },
-    {
-        "id": "apatheist",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/apatheist.png",
-        "edition": "custom",
-        "firstNight": 0,
-        "firstNightReminder": "",
-        "otherNight": 0,
-        "otherNightReminder": "",
-        "reminders": [],
-        "remindersGlobal": [
-            "Team"
-        ],
-        "setup": 1,
-        "name": "Apatheist",
-        "team": "townsfolk",
-        "ability": "When a good player is chosen at night by an evil players ability, it malfunctions. Instead, the good player aligns with and learns the evil player; even if you are drunk or dead. [There are two evil teams.]"
     },
     {
         "id": "brewer",
@@ -423,7 +406,7 @@
         "setup": 0,
         "name": "Lumpus",
         "team": "demon",
-        "ability": "You see the Grimoire on your first night. Each night*, choose a neighbour of an already dead player to die, even if they might have survived for some reason. (Choose anyone if all players live.)"
+        "ability": "Each night*, see the Grimoire and choose a player to die, even if they might have survived for some reason (or anyone if all players live). After your first kill, your pick must neighbour a dead player."
     },
     {
         "id": "hox",
@@ -463,7 +446,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 24,
+        "otherNight": 23,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "On the block"
