@@ -4,7 +4,7 @@
         "name": "All Hat And No Cattle",
         "logo": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/logo/cowboy_hat.png",
         "author": "Nic",
-        "date": "2022-04-01"
+        "date": "2022-04-27"
     },
     {
         "id": "sweep",
@@ -440,7 +440,7 @@
         "setup": 1,
         "name": "Hox",
         "team": "demon",
-        "ability": "Each night*, choose a player to die. If you choose yourself then (after your death) a good player turns into an evil Hox and you become good. You don't learn bluffs or minions. Minions know (only) you and learn bluffs. [+1 Outsider/Minion]"
+        "ability": "Each night*, choose a player to die. If you choose yourself then (after your death) a good player turns into an evil Hox and you become good. You don't learn bluffs or minions. Minions learn bluffs. [+1 Outsider/Minion]"
     },
     {
         "id": "pollster",
