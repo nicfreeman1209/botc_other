@@ -4,7 +4,7 @@
         "name": "All Hat And No Cattle",
         "logo": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/logo/cowboy_hat.png",
         "author": "Nic",
-        "date": "2022-04-27"
+        "date": "2022-05-05"
     },
     {
         "id": "sweep",
@@ -299,7 +299,7 @@
         "setup": 0,
         "name": "Hypnotist",
         "team": "minion",
-        "ability": "Each night, choose a player (different to last night). You learn their character and control any choices they make tonight. (They learn these choices.)"
+        "ability": "Each night, choose a player (different to last night). You learn their character and control any choices they make tonight."
     },
     {
         "id": "vulture",
