@@ -4,7 +4,7 @@
         "name": "All Hat And No Cattle",
         "logo": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/logo/cowboy_hat.png",
         "author": "Nic",
-        "date": "2022-05-06"
+        "date": "2022-05-07"
     },
     {
         "id": "sweep",
@@ -83,7 +83,7 @@
         "setup": 0,
         "name": "Stargazer",
         "team": "townsfolk",
-        "ability": "Each day*, visit the storyteller and answer a yes/no question. In return you receive a piece of information, which is true if you answered correctly."
+        "ability": "Each day, visit the storyteller and answer a yes/no question. In return you receive a piece of information, which is true if you answered correctly."
     },
     {
         "id": "gatekeeper",
@@ -100,7 +100,7 @@
         "setup": 0,
         "name": "Gatekeeper",
         "team": "townsfolk",
-        "ability": "On your first day, visit the storyteller and choose two characters. When either dies, you wake at night to learn that one (or both) died."
+        "ability": "On your first day, visit the storyteller and choose two good characters. When either dies, you wake at night to learn that one (or both) died."
     },
     {
         "id": "sorting_hat",
@@ -183,7 +183,7 @@
         "setup": 0,
         "name": "Satirist",
         "team": "townsfolk",
-        "ability": "The first time you are chosen at night by an opposing player, their ability malfunctions. The choice is redirected (without warning) at a new target of your choice."
+        "ability": "The first time you are chosen at night by an opposing player, their ability malfunctions; the choice is redirected (without warning) at a new player of your choice."
     },
     {
         "id": "hermit",
@@ -336,7 +336,7 @@
         "setup": 0,
         "name": "Bazooka",
         "team": "minion",
-        "ability": "On your first night, choose clockwise or anticlockwise. Once per game, at night*, along neighbouring alive players in that direction, choose if the furthest two from you die. The demon is drunk that night."
+        "ability": "On your first night, choose clockwise or anticlockwise. Once per game, at night*, along neighbouring alive players in that direction, choose if the furthest two from you die. The demon doesn't act that night."
     },
     {
         "id": "siren",
@@ -372,7 +372,7 @@
         "setup": 1,
         "name": "Runculus",
         "team": "demon",
-        "ability": "Each night*, choose a player to die. One of your minions has a non-listed (minion) role. A good player might learn from which script."
+        "ability": "Each night*, choose a player to die. One of your minions is a non-listed (minion) role. A good player might learn from which script."
     },
     {
         "id": "cotillion",
@@ -406,7 +406,7 @@
         "setup": 0,
         "name": "Lumpus",
         "team": "demon",
-        "ability": "Each night*, see the Grimoire and choose a player to die, even if they might have survived for some reason (or anyone if all players live). After your first kill, your pick must neighbour a dead player."
+        "ability": "Each night*, see the Grimoire and choose a player to die, even if they might have survived for some reason. After your first kill, your target must neighbour a dead player."
     },
     {
         "id": "hox",
@@ -423,7 +423,7 @@
         "setup": 1,
         "name": "Hox",
         "team": "demon",
-        "ability": "Each night*, choose a player to die. If you choose yourself then (after your death) a good player turns into an evil Hox and you become good. You don't learn bluffs or minions. Minions learn bluffs. [+1 Outsider/Minion]"
+        "ability": "Each night*, choose a player to die. If you choose yourself then (after your death) a good player turns into an evil Hox and you become good. You don't learn bluffs or minions. Minions know you and learn bluffs. [+1 Outsider]"
     },
     {
         "id": "pollster",
