@@ -336,7 +336,7 @@
         "setup": 0,
         "name": "Bazooka",
         "team": "minion",
-        "ability": "On your first night, choose clockwise or anticlockwise. Once per game, at night*, along neighbouring alive players in that direction, choose if the furthest two from you die. The demon doesn't act that night."
+        "ability": "On your first night, choose clockwise or anticlockwise. Once per game, at night*, along neighbouring alive players in that direction, choose if the furthest two from you die. The demon is drunk that night."
     },
     {
         "id": "siren",
