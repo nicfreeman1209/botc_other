@@ -134,7 +134,7 @@
         "setup": 0,
         "name": "Potato",
         "team": "townsfolk",
-        "ability": "Once per game, at night, choose a player. If you choose a player of the same alignment or a demon, nothing happens. Otherwise, swap characters."
+        "ability": "Once per game, at night, choose a player (not travelers). If you choose a player of the same alignment or a demon, nothing happens. Otherwise, swap characters."
     },
     {
         "id": "messenger",
