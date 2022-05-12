@@ -4,7 +4,7 @@
         "name": "All Hat And No Cattle",
         "logo": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/logo/cowboy_hat.png",
         "author": "Nic",
-        "date": "2022-05-11"
+        "date": "2022-05-12"
     },
     {
         "id": "sweep",
@@ -44,8 +44,8 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 0,
-        "otherNightReminder": "",
+        "otherNight": 23,
+        "otherNightReminder": "Ability - each night*.",
         "reminders": [],
         "remindersGlobal": [],
         "setup": 0,
@@ -59,7 +59,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 27,
+        "otherNight": 28,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Was chosen"
@@ -91,7 +91,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 24,
+        "otherNight": 25,
         "otherNightReminder": "If one/both of their picks died since last night, tell them this.",
         "reminders": [
             "Chosen"
@@ -108,7 +108,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 25,
+        "otherNight": 26,
         "otherNightReminder": "Return character type count (night 2).",
         "reminders": [
             "Chosen"
@@ -191,7 +191,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 26,
+        "otherNight": 27,
         "otherNightReminder": "If they are the only good player alive, tell them the demon bluffs.",
         "reminders": [],
         "remindersGlobal": [],
@@ -446,7 +446,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 23,
+        "otherNight": 24,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "On the block"
