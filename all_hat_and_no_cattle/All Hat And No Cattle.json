@@ -94,7 +94,8 @@
         "otherNight": 25,
         "otherNightReminder": "If one/both of their picks died since last night, tell them this.",
         "reminders": [
-            "Chosen"
+            "Chosen",
+            "Died"
         ],
         "remindersGlobal": [],
         "setup": 0,
@@ -117,7 +118,7 @@
         "setup": 0,
         "name": "Sorting Hat",
         "team": "townsfolk",
-        "ability": "On your first day, publicly choose 4 players (not yourself). At night you learn how many different character types they were."
+        "ability": "On your first day, publicly choose 4 players (not yourself or travelers). At night you learn how many different character types they were."
     },
     {
         "id": "potato",
@@ -294,7 +295,10 @@
         "firstNightReminder": "Ability - each night.",
         "otherNight": 13,
         "otherNightReminder": "Ability - each night.",
-        "reminders": [],
+        "reminders": [
+            "Hypnotized",
+            "Choice"
+        ],
         "remindersGlobal": [],
         "setup": 0,
         "name": "Hypnotist",
