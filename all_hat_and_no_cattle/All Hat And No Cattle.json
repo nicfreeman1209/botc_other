@@ -10,7 +10,7 @@
         "id": "sweep",
         "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/sweep.png",
         "edition": "custom",
-        "firstNight": 14,
+        "firstNight": 13,
         "firstNightReminder": "Ability - first night.",
         "otherNight": 0,
         "otherNightReminder": "",
@@ -25,9 +25,9 @@
         "id": "understudy",
         "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/understudy.png",
         "edition": "custom",
-        "firstNight": 17,
+        "firstNight": 10,
         "firstNightReminder": "Ability - each night.",
-        "otherNight": 22,
+        "otherNight": 16,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Drunk"
@@ -44,7 +44,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 23,
+        "otherNight": 15,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [],
         "remindersGlobal": [],
@@ -59,7 +59,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 28,
+        "otherNight": 10,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Was chosen"
@@ -91,7 +91,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 25,
+        "otherNight": 13,
         "otherNightReminder": "If one/both of their picks died since last night, tell them this.",
         "reminders": [
             "Chosen",
@@ -109,7 +109,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 26,
+        "otherNight": 12,
         "otherNightReminder": "Return character type count (night 2).",
         "reminders": [
             "Chosen"
@@ -124,9 +124,9 @@
         "id": "potato",
         "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/potato.png",
         "edition": "custom",
-        "firstNight": 16,
+        "firstNight": 11,
         "firstNightReminder": "Ability - once per game.",
-        "otherNight": 20,
+        "otherNight": 18,
         "otherNightReminder": "Ability - once per game.",
         "reminders": [
             "No ability"
@@ -141,9 +141,9 @@
         "id": "messenger",
         "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/messenger.png",
         "edition": "custom",
-        "firstNight": 15,
+        "firstNight": 12,
         "firstNightReminder": "Ability - once per game.",
-        "otherNight": 21,
+        "otherNight": 17,
         "otherNightReminder": "Ability - once per game.",
         "reminders": [
             "No ability"
@@ -160,7 +160,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 11,
+        "otherNight": 27,
         "otherNightReminder": "If executed whilst dead, wake for new character choice.",
         "reminders": [],
         "remindersGlobal": [],
@@ -192,7 +192,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 27,
+        "otherNight": 11,
         "otherNightReminder": "If they are the only good player alive, tell them the demon bluffs.",
         "reminders": [],
         "remindersGlobal": [],
@@ -207,7 +207,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 12,
+        "otherNight": 26,
         "otherNightReminder": "Mark protected & drunk players.",
         "reminders": [
             "Cannot die",
@@ -242,7 +242,7 @@
         "id": "tempest",
         "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/tempest.png",
         "edition": "custom",
-        "firstNight": 10,
+        "firstNight": 17,
         "firstNightReminder": "They learn their alignment.",
         "otherNight": 0,
         "otherNightReminder": "",
@@ -259,7 +259,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 10,
+        "otherNight": 28,
         "otherNightReminder": "Mark if something bad could happen tonight.",
         "reminders": [
             "Something bad"
@@ -291,9 +291,9 @@
         "id": "hypnotist",
         "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/hypnotist.png",
         "edition": "custom",
-        "firstNight": 11,
+        "firstNight": 16,
         "firstNightReminder": "Ability - each night.",
-        "otherNight": 13,
+        "otherNight": 25,
         "otherNightReminder": "Ability - each night.",
         "reminders": [
             "Hypnotized",
@@ -311,7 +311,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 14,
+        "otherNight": 24,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Remove vote"
@@ -326,9 +326,9 @@
         "id": "bazooka",
         "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/bazooka.png",
         "edition": "custom",
-        "firstNight": 12,
+        "firstNight": 15,
         "firstNightReminder": "Choose clockwise/anticlockwise.",
-        "otherNight": 15,
+        "otherNight": 23,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Clockwise",
@@ -365,7 +365,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 16,
+        "otherNight": 22,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Dead",
@@ -384,7 +384,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 17,
+        "otherNight": 21,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Dead"
@@ -399,9 +399,9 @@
         "id": "lumpus",
         "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/lumpus.png",
         "edition": "custom",
-        "firstNight": 13,
+        "firstNight": 14,
         "firstNightReminder": "They see the Grimoire.",
-        "otherNight": 18,
+        "otherNight": 20,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Dead"
@@ -450,7 +450,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 24,
+        "otherNight": 14,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "On the block"
