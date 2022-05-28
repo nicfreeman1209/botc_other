@@ -199,7 +199,7 @@
         "setup": 0,
         "name": "Hermit",
         "team": "townsfolk",
-        "ability": "If only one good player is alive at dawn, you may nominate twice today."
+        "ability": "If only one good player is alive at dawn, you learn this and may nominate twice today."
     },
     {
         "id": "guard",
