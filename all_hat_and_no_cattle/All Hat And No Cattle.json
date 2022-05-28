@@ -293,7 +293,7 @@
         "edition": "custom",
         "firstNight": 16,
         "firstNightReminder": "Ability - each night.",
-        "otherNight": 25,
+        "otherNight": 24,
         "otherNightReminder": "Ability - each night.",
         "reminders": [
             "Hypnotized",
@@ -311,7 +311,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 24,
+        "otherNight": 25,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Chosen",
