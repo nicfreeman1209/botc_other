@@ -233,7 +233,7 @@
             "Drunk",
             "Cannot die"
         ],
-        "setup": 0,
+        "setup": 1,
         "name": "Brewer",
         "team": "outsider",
         "ability": "You think you are a different character. One of your neighbours cannot die, the other is drunk."
