@@ -321,7 +321,7 @@
         "setup": 1,
         "name": "Nightmare",
         "team": "minion",
-        "ability": "Each night*, choose a player. If they would wake due to their own ability tonight, they don't. The first townsfolk who you prevent from waking dies. [+1 or -1 Outsider]"
+        "ability": "Each night*, choose a player. If they would wake due to their own ability tonight, they don't. The first townsfolk who you prevent from waking, dies. [+1 or -1 Outsider]"
     },
     {
         "id": "bazooka",
