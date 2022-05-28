@@ -413,7 +413,7 @@
         "setup": 0,
         "name": "Lumpus",
         "team": "demon",
-        "ability": "Each night*, see the Grimoire and choose a player to die, even if they might have survived for some reason. After your first kill, your target must neighbour a dead player."
+        "ability": "Each night*, choose a player to die, even if they might have survived for some reason. After your first kill, your target must neighbour a dead player."
     },
     {
         "id": "hox",
@@ -445,7 +445,7 @@
         "setup": 0,
         "name": "Pollster",
         "team": "traveler",
-        "ability": "When your exile is called for, visit the storyteller privately and choose a number. If exactly that many players vote, everyone who voted dies."
+        "ability": "When your exile is called for, visit the storyteller privately and choose a number. If exactly that many players vote (not including you) everyone who voted dies."
     },
     {
         "id": "jailer",
