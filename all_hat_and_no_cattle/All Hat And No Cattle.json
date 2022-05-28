@@ -391,7 +391,7 @@
             "Dead"
         ],
         "remindersGlobal": [],
-        "setup": 1,
+        "setup": 0,
         "name": "Cotillion",
         "team": "demon",
         "ability": "Each night*, either: choose a player to become a Lemming, or choose a player to die."
