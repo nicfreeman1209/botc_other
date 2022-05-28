@@ -27,7 +27,7 @@
         "edition": "custom",
         "firstNight": 10,
         "firstNightReminder": "Ability - each night.",
-        "otherNight": 17,
+        "otherNight": 16,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Drunk"
@@ -44,7 +44,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 16,
+        "otherNight": 15,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [],
         "remindersGlobal": [],
@@ -126,7 +126,7 @@
         "edition": "custom",
         "firstNight": 11,
         "firstNightReminder": "Ability - once per game.",
-        "otherNight": 19,
+        "otherNight": 18,
         "otherNightReminder": "Ability - once per game.",
         "reminders": [
             "No ability"
@@ -143,7 +143,7 @@
         "edition": "custom",
         "firstNight": 12,
         "firstNightReminder": "Ability - once per game.",
-        "otherNight": 18,
+        "otherNight": 17,
         "otherNightReminder": "Ability - once per game.",
         "reminders": [
             "No ability"
@@ -160,7 +160,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 14,
+        "otherNight": 27,
         "otherNightReminder": "If executed whilst dead, wake for new character choice.",
         "reminders": [],
         "remindersGlobal": [],
@@ -207,7 +207,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 27,
+        "otherNight": 26,
         "otherNightReminder": "Mark protected & drunk players.",
         "reminders": [
             "Cannot die",
@@ -293,7 +293,7 @@
         "edition": "custom",
         "firstNight": 16,
         "firstNightReminder": "Ability - each night.",
-        "otherNight": 25,
+        "otherNight": 24,
         "otherNightReminder": "Ability - each night.",
         "reminders": [
             "Hypnotized",
@@ -311,7 +311,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 26,
+        "otherNight": 25,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Chosen",
@@ -329,7 +329,7 @@
         "edition": "custom",
         "firstNight": 15,
         "firstNightReminder": "Choose clockwise/anticlockwise.",
-        "otherNight": 24,
+        "otherNight": 23,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Clockwise",
@@ -366,7 +366,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 23,
+        "otherNight": 22,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Dead",
@@ -385,7 +385,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 22,
+        "otherNight": 21,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Dead"
@@ -402,7 +402,7 @@
         "edition": "custom",
         "firstNight": 14,
         "firstNightReminder": "They see the Grimoire.",
-        "otherNight": 21,
+        "otherNight": 20,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Dead"
@@ -419,7 +419,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 20,
+        "otherNight": 19,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Dead"
@@ -451,7 +451,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 15,
+        "otherNight": 14,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "On the block"
