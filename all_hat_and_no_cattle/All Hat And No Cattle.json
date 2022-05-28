@@ -4,7 +4,7 @@
         "name": "All Hat And No Cattle",
         "logo": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/logo/cowboy_hat.png",
         "author": "Nic",
-        "date": "2022-05-13"
+        "date": "2022-05-28"
     },
     {
         "id": "sweep",
@@ -199,7 +199,7 @@
         "setup": 0,
         "name": "Hermit",
         "team": "townsfolk",
-        "ability": "The first time only one good player is alive at dawn, you wake and choose a player to come back to life."
+        "ability": "If only one good player is alive at dawn, you may nominate twice today."
     },
     {
         "id": "guard",
@@ -306,21 +306,22 @@
         "ability": "Each night, choose a player (different to last night). You learn their character and control any choices they make tonight."
     },
     {
-        "id": "vulture",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/vulture.png",
+        "id": "nightmare",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/nightmare.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
         "otherNight": 24,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
-            "Remove vote"
+            "Chosen",
+            "Killed townsfolk"
         ],
         "remindersGlobal": [],
-        "setup": 0,
-        "name": "Vulture",
+        "setup": 1,
+        "name": "Nightmare",
         "team": "minion",
-        "ability": "Each night, if there were more dead than living players at dusk, choose a dead player, their ghost vote is removed."
+        "ability": "Each night*, choose a player. If they would wake due to their own ability tonight, they don't. The first townsfolk who you prevent from waking dies. [+1 or -1 Outsider]"
     },
     {
         "id": "bazooka",
@@ -427,7 +428,7 @@
         "setup": 1,
         "name": "Hox",
         "team": "demon",
-        "ability": "Each night*, choose a player to die. If you choose yourself then (after your death) minions wake to choose a new evil hox and you become good. You don't learn bluffs or minions. Minions know you and learn bluffs. [+1 Outsider]"
+        "ability": "Each night*, choose a player to die. If you self-kill, and the living outnumber the dead, then minions choose a new evil hox and you become good. You don't learn bluffs or minions. Minions know you and learn bluffs."
     },
     {
         "id": "pollster",
