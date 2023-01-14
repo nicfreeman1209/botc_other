@@ -4,13 +4,13 @@
         "name": "All Hat And No Cattle",
         "logo": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/logo/cowboy_hat.png",
         "author": "Nic",
-        "date": "2022-05-28"
+        "date": "2022-12-19"
     },
     {
         "id": "sweep",
         "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/sweep.png",
         "edition": "custom",
-        "firstNight": 14,
+        "firstNight": 13,
         "firstNightReminder": "Ability - first night.",
         "otherNight": 0,
         "otherNightReminder": "",
@@ -25,9 +25,9 @@
         "id": "understudy",
         "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/understudy.png",
         "edition": "custom",
-        "firstNight": 17,
+        "firstNight": 16,
         "firstNightReminder": "Ability - each night.",
-        "otherNight": 21,
+        "otherNight": 20,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Drunk"
@@ -44,7 +44,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 22,
+        "otherNight": 21,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [],
         "remindersGlobal": [],
@@ -59,7 +59,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 28,
+        "otherNight": 27,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Was chosen"
@@ -71,6 +71,21 @@
         "ability": "Each night*, you learn how many players were chosen by character abilities tonight (counted with multiplicity)."
     },
     {
+        "id": "guardian",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/guardian.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 0,
+        "otherNightReminder": "",
+        "reminders": [],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Guardian",
+        "team": "townsfolk",
+        "ability": "Each night*, choose a player. If they die tonight, instead they live and you become drunk."
+    },
+    {
         "id": "stargazer",
         "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/stargazer.png",
         "edition": "custom",
@@ -78,7 +93,10 @@
         "firstNightReminder": "",
         "otherNight": 0,
         "otherNightReminder": "",
-        "reminders": [],
+        "reminders": [
+            "Chosen",
+            "Died"
+        ],
         "remindersGlobal": [],
         "setup": 0,
         "name": "Stargazer",
@@ -91,11 +109,10 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 25,
+        "otherNight": 24,
         "otherNightReminder": "If one/both of their picks died since last night, tell them this.",
         "reminders": [
-            "Chosen",
-            "Died"
+            "Chosen"
         ],
         "remindersGlobal": [],
         "setup": 0,
@@ -109,24 +126,24 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 26,
+        "otherNight": 25,
         "otherNightReminder": "Return character type count (night 2).",
         "reminders": [
-            "Chosen"
+            "No ability"
         ],
         "remindersGlobal": [],
         "setup": 0,
         "name": "Sorting Hat",
         "team": "townsfolk",
-        "ability": "On your first day, publicly choose 4 players (not yourself or travelers). At night you learn how many different character types they were."
+        "ability": "On your first day, before nominations, publicly choose 4 players (not yourself or travelers). At night you learn how many different character types they were."
     },
     {
         "id": "potato",
         "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/potato.png",
         "edition": "custom",
-        "firstNight": 16,
+        "firstNight": 15,
         "firstNightReminder": "Ability - once per game.",
-        "otherNight": 19,
+        "otherNight": 18,
         "otherNightReminder": "Ability - once per game.",
         "reminders": [
             "No ability"
@@ -141,12 +158,12 @@
         "id": "messenger",
         "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/messenger.png",
         "edition": "custom",
-        "firstNight": 15,
+        "firstNight": 14,
         "firstNightReminder": "Ability - once per game.",
-        "otherNight": 20,
+        "otherNight": 19,
         "otherNightReminder": "Ability - once per game.",
         "reminders": [
-            "No ability"
+            "Revives tonight"
         ],
         "remindersGlobal": [],
         "setup": 0,
@@ -160,10 +177,10 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 24,
+        "otherNight": 23,
         "otherNightReminder": "If executed whilst dead, wake for new character choice.",
         "reminders": [
-            "Revives tonight"
+            "No ability"
         ],
         "remindersGlobal": [],
         "setup": 0,
@@ -179,14 +196,12 @@
         "firstNightReminder": "",
         "otherNight": 0,
         "otherNightReminder": "",
-        "reminders": [
-            "No ability"
-        ],
+        "reminders": [],
         "remindersGlobal": [],
         "setup": 0,
         "name": "Satirist",
         "team": "townsfolk",
-        "ability": "The first time you are chosen at night by an opposing player, their ability malfunctions; the choice is redirected (without warning) at a new player of your choice."
+        "ability": "If you are chosen at night by a minion, their ability malfunctions; the choice is redirected (without warning) at a new player of your choice."
     },
     {
         "id": "hermit",
@@ -194,7 +209,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 27,
+        "otherNight": 26,
         "otherNightReminder": "If they are the only good player alive, tell them the demon bluffs.",
         "reminders": [],
         "remindersGlobal": [],
@@ -202,24 +217,6 @@
         "name": "Hermit",
         "team": "townsfolk",
         "ability": "If only one good player is alive at dawn, you learn this and may nominate twice today."
-    },
-    {
-        "id": "guard",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/guard.png",
-        "edition": "custom",
-        "firstNight": 0,
-        "firstNightReminder": "",
-        "otherNight": 11,
-        "otherNightReminder": "Mark protected & drunk players.",
-        "reminders": [
-            "Cannot die",
-            "Drunk"
-        ],
-        "remindersGlobal": [],
-        "setup": 0,
-        "name": "Guard",
-        "team": "townsfolk",
-        "ability": "Any player (not yourself) who votes when you are nominated cannot die tonight, and one is drunk tonight."
     },
     {
         "id": "brewer",
@@ -326,24 +323,21 @@
         "ability": "Each night*, choose a player. If they would wake due to their own ability tonight, they don't. The first townsfolk who you prevent from waking, dies. [+1 or -1 Outsider]"
     },
     {
-        "id": "bazooka",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/bazooka.png",
+        "id": "enchanter",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/enchanter.png",
         "edition": "custom",
-        "firstNight": 12,
-        "firstNightReminder": "Choose clockwise/anticlockwise.",
-        "otherNight": 14,
-        "otherNightReminder": "Ability - each night*.",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 0,
+        "otherNightReminder": "",
         "reminders": [
-            "Clockwise",
-            "Anticlockwise",
-            "No ability",
-            "Dead"
+            "Enchanted"
         ],
         "remindersGlobal": [],
         "setup": 0,
-        "name": "Bazooka",
+        "name": "Enchanter",
         "team": "minion",
-        "ability": "On your first night, choose clockwise or anticlockwise. Once per game, at night*, along neighbouring alive players in that direction, choose if the furthest two from you die. The demon is drunk that night."
+        "ability": "If a player targets the Enchanter, they become enchanted until targeted by another player. Enchanted players register as the Enchanter."
     },
     {
         "id": "siren",
@@ -360,7 +354,7 @@
         "setup": 0,
         "name": "Siren",
         "team": "minion",
-        "ability": "Each time you are nominated by an opposing player, they become drunk, even if you are dead."
+        "ability": "If you are nominated by an opposing player, they become drunk, even if you are dead."
     },
     {
         "id": "runculus",
@@ -368,7 +362,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 15,
+        "otherNight": 14,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Dead",
@@ -387,7 +381,7 @@
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 16,
+        "otherNight": 15,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "Dead"
@@ -399,11 +393,11 @@
         "ability": "Each night*, either: choose a player to become a Lemming, or choose a player to die."
     },
     {
-        "id": "lumpus",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/lumpus.png",
+        "id": "hox",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/hox.png",
         "edition": "custom",
-        "firstNight": 13,
-        "firstNightReminder": "They see the Grimoire.",
+        "firstNight": 0,
+        "firstNightReminder": "",
         "otherNight": 17,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
@@ -411,26 +405,27 @@
         ],
         "remindersGlobal": [],
         "setup": 0,
-        "name": "Lumpus",
+        "name": "Hox",
         "team": "demon",
-        "ability": "Each night*, choose a player to die, even if they might have survived for some reason. After your first kill, your target must neighbour a dead player."
+        "ability": "Each night*, choose a player to die. Once per game, instead, choose to kill all players who were on the block today."
     },
     {
-        "id": "hox",
-        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/hox.png",
+        "id": "lumpus",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/lumpus.png",
         "edition": "custom",
-        "firstNight": 0,
-        "firstNightReminder": "",
-        "otherNight": 18,
+        "firstNight": 12,
+        "firstNightReminder": "They see the Grimoire.",
+        "otherNight": 16,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
-            "Dead"
+            "Dead",
+            "On the block"
         ],
         "remindersGlobal": [],
         "setup": 1,
-        "name": "Hox",
+        "name": "Lumpus",
         "team": "demon",
-        "ability": "Each night*, choose a player to die. If you self-kill, and the living outnumber the dead, then minions choose a new evil hox and you become good. You don't learn bluffs or minions. Minions know you and learn bluffs."
+        "ability": "Each night*, choose a player to die, even if they might have survived for some reason. After your first kill, your target must neighbour a dead player."
     },
     {
         "id": "pollster",
@@ -448,12 +443,30 @@
         "ability": "When your exile is called for, visit the storyteller privately and choose a number. If exactly that many players vote (not including you) everyone who voted dies."
     },
     {
+        "id": "guard",
+        "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/guard.png",
+        "edition": "custom",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 11,
+        "otherNightReminder": "Mark protected & drunk players.",
+        "reminders": [
+            "Cannot die",
+            "Drunk"
+        ],
+        "remindersGlobal": [],
+        "setup": 0,
+        "name": "Guard",
+        "team": "traveler",
+        "ability": "Other players who voted on your exile today cannot die tonight (if you are not exiled), and one is drunk tonight."
+    },
+    {
         "id": "jailer",
         "image": "https://raw.githubusercontent.com/nicfreeman1209/botc_other/main/all_hat_and_no_cattle/images/compiled/jailer.png",
         "edition": "custom",
         "firstNight": 0,
         "firstNightReminder": "",
-        "otherNight": 23,
+        "otherNight": 22,
         "otherNightReminder": "Ability - each night*.",
         "reminders": [
             "On the block"
@@ -479,6 +492,6 @@
         "setup": 0,
         "name": "Triffid",
         "team": "traveler",
-        "ability": "On a tied nomination vote, two (or more) players are placed on the block. If so, at the end of the day, you choose which one of them is executed."
+        "ability": "On a tied nomination vote, two (or more) players are placed on the block. At the end of the day, you choose which one of them is executed."
     }
 ]
